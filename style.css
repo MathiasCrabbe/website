@@ -1,0 +1,22 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: aquamarine;
+    font-size: 36px;
+    font-weight: 200;
+}
+h2{
+    color: aquamarine;
+    font-size: 36px;
+}
+h3{ color: aquamarine;
+    font-size: 36px;
+}
+p{
+    color: cadetblue;
+    font-size: 24px;
+}
+img{
+    max-width: 320px;
+}
